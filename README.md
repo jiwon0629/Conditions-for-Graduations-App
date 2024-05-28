@@ -18,6 +18,7 @@ Database로 저장이 되어 항상 확인할 수 있다.
   10. Na-Best 페이지
   11. 결과화면
 
+
 # 1. 메인 페이지
 ![main](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/98d2afaf-6bfe-43d7-9962-51cfc6e5d7b0)
 
