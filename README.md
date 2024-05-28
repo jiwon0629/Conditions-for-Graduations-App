@@ -5,7 +5,7 @@
 원형그래프로 현황을 알 수 있고 디바이스가 꺼져도 체크한 목록과 그래프 현황은  
 Database로 저장이 되어 항상 확인할 수 있다.
 
-## 구성
+# 구성
   1. 메인 페이지
   2. 전공 페이지
   3. 교양 페이지
@@ -16,45 +16,45 @@ Database로 저장이 되어 항상 확인할 수 있다.
   8. 1365 페이지
   9. VMS 페이지
   10. Na-Best 페이지
-  11. 기타 페이지
+  11. 결과화면
 
-## 1. 메인 페이지
+# 1. 메인 페이지
 ![main](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/98d2afaf-6bfe-43d7-9962-51cfc6e5d7b0)
 
-## 2. 전공 페이지
+# 2. 전공 페이지
 ![major1](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/9e52b309-3793-445b-8537-8cb2c3e7b87a)
 ![major2](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/ebbcf67d-bb32-4b55-a3d0-2cc04ac60584)
 ![major3](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/116345f6-c2ca-495b-bb81-c77a8ac9e758)
 ![major4](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/00401f45-055e-48e8-8a9e-54644b8624e3)
 ![major5](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/f446c07c-a1a6-411f-9341-0e4077cfc90b)
 
-## 3. 교양 페이지
+# 3. 교양 페이지
 ![refinement1](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/531e1286-95ca-4abf-bc09-b1bdba6800c6)
 ![refinement2](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/511315da-95b3-4fe1-9a9c-2ce94dd10d47)
 ![refinement3](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/e4793777-19f0-4042-8e51-d3e7f7fda11d)
 
-## 4. 품 마일리지 페이지
+# 4. 품 마일리지 페이지
 ![poom](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/d7dad0da-8caf-4cb7-9504-76814ef06efb)
 
-## 5. 학번 페이지
+# 5. 학번 페이지
 ![schnum](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/883436ed-7a67-42fd-be25-93e8c1332498)
 
-## 6. 나사렛대학교 홈페이지
+# 6. 나사렛대학교 홈페이지
 ![kornu](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/06304796-04dc-401e-b772-9f4eaaa9e6ef)
 
-## 7. IT학부 페이지
+# 7. IT학부 페이지
 ![IT](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/dca4813e-c90d-4dc8-8656-b91f98c11d92)
 
-## 8. 1365 페이지
+# 8. 1365 페이지
 ![1365](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/88a7baee-d7eb-43c6-885f-16df01380ec5)
 
-
-## 9. VMS 페이지
+# 9. VMS 페이지
 ![vms](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/ada2945a-48a3-46fd-842f-4701d8d96840)
 
-## 10. Na-Best 페이지
+# 10. Na-Best 페이지
 ![nabest](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/74ac2dd0-7b14-44a5-bb56-bbe916ef73fe)
 
+# 11. 결과화면
 ![result](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/d530d586-02de-4495-baff-e4f9c94d4bf2)
 
 
