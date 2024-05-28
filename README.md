@@ -48,7 +48,13 @@ Database로 저장이 되어 항상 확인할 수 있다.
 
 # 2. 전공 페이지  
  - 메뉴를 이용해서 자신에 맞는 학번별로 선택하여 학부공통, 전공필수, 전공선택을 선택할 수 있습니다.
-  
+ - 체크박스를 이용해 과목들을 체크하면 체크여부를 SharedPreferense를 이용해 boolean값으로 저장하여  
+화면을 나가더라도 체크상태를 유지시킵니다.
+ - 저장 버튼을 누르고 난 후에 체크를 끝내고 메인화면 버튼을 누르면 과목에 맞는 학점의 총합이  
+Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다.
+
+ - 만약 체크와 총합을 초기화 시키고 싶다면 저장버튼을 누른 후 초기화 버튼을 누르면 초기화됩니다.
+
 ![major1](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/9e52b309-3793-445b-8537-8cb2c3e7b87a)
 ![major2](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/ebbcf67d-bb32-4b55-a3d0-2cc04ac60584)
 ![major3](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/116345f6-c2ca-495b-bb81-c77a8ac9e758)
