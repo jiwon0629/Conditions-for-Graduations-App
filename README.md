@@ -61,30 +61,56 @@ Intent를 이용하여 총합 데이터를 메인화면으로 이동시킵니다
 ![major4](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/00401f45-055e-48e8-8a9e-54644b8624e3)
 ![major5](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/f446c07c-a1a6-411f-9341-0e4077cfc90b)
 
-# 3. 교양 페이지
+# 3. 교양 페이지  
+ - 메뉴를 이용해서 자신이 수강한 교양 과목을 선택할 수 있습니다.
+ - 교양선택은 과목이 많기 때문에 체크박스를 사용하기에는 한계가 있다고 판단하여 역량, 과목, 학점을 작성하고  
+초기화, 입력, 조회, 수정, 삭제할 수 있게 했습니다.
+
+ - sqlDB를 이용하여 테이블을 만든 후에 각 데이터를 넣고 저장할 수 있게 했습니다.
+
+ - 교양 페이지도 저장 버튼을 누르고 체크를 마치고 메인화면 버튼을 누르면 Intent를 이용하여 메인화면의  
+교양 그래프가 변화할 수 있게 했습니다.
+
 ![refinement1](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/531e1286-95ca-4abf-bc09-b1bdba6800c6)
 ![refinement2](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/511315da-95b3-4fe1-9a9c-2ce94dd10d47)
 ![refinement3](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/e4793777-19f0-4042-8e51-d3e7f7fda11d)
 
-# 4. 품 마일리지 페이지
+# 4. 품 마일리지 페이지  
+ - 품 마일리지도 종류가 많기 때문에 등록할 항목, 인증점수를 작성하고 초기화, 입력, 조회, 수정, 삭제할 수 있게 했습니다.  
+  
+ - 하단에 총합이 나오게 되고 교양 선택 페이지와 같이 sqlDB를 이용하여 테이블을 만든 후에 각 데이터를 넣고 저장할 수 있게 했습니다.
+  
 ![poom](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/d7dad0da-8caf-4cb7-9504-76814ef06efb)
 
-# 5. 학번 페이지
+# 5. 학번 페이지  
+ - 학번 페이지는 학년별 교육과정표가 있는 페이지입니다.  
+ - 상단에 버튼을 누르면 각 교육과정표가 나오게 됩니다.
+
 ![schnum](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/883436ed-7a67-42fd-be25-93e8c1332498)
 
-# 6. 나사렛대학교 홈페이지
+# 6. 나사렛대학교 홈페이지  
+ - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
+  
 ![kornu](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/06304796-04dc-401e-b772-9f4eaaa9e6ef)
 
-# 7. IT학부 페이지
+# 7. IT학부 페이지  
+ - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
+  
 ![IT](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/dca4813e-c90d-4dc8-8656-b91f98c11d92)
 
-# 8. 1365 페이지
+# 8. 1365 페이지  
+ - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
+  
 ![1365](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/88a7baee-d7eb-43c6-885f-16df01380ec5)
 
-# 9. VMS 페이지
+# 9. VMS 페이지  
+ - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
+  
 ![vms](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/ada2945a-48a3-46fd-842f-4701d8d96840)
 
-# 10. Na-Best 페이지
+# 10. Na-Best 페이지  
+ - urlIntent를 이용하여 각 url로 바로 이동하게 합니다.
+  
 ![nabest](https://github.com/jiwon0629/Conditions-for-Graduations-App/assets/149983498/74ac2dd0-7b14-44a5-bb56-bbe916ef73fe)
 
 # 11. 결과화면
