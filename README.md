@@ -7,6 +7,7 @@ Database로 저장이 되어 항상 확인할 수 있다.
 
 ## Language  
  - <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
+ - <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" /></div>  
 
 
 # 구성
