@@ -6,7 +6,7 @@
 Database로 저장이 되어 항상 확인할 수 있다.  
 
 ## Language  
- - <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black"/>
+ - <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
 
 
 # 구성
